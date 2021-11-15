@@ -1,0 +1,62 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(180, 209, 218);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+ text-align: left;
+ font-weight: 900;  
+ margin-top: 0.3em;
+ margin-left: 0.5em;
+ color: rgb(8, 43, 8);
+font-size: 1.9em;
+}
+
+h2{
+    color: rgb(8, 43, 8);
+    font-size: 1.3em;
+}
+
+form, .inp{
+    
+    font-size: 15px;
+    font-size: 600;
+}
+
+.icon{
+color: grey;  
+font-size: 2em;
+margin: 1em 14em;
+}
+
+.box-input {
+    width: 500px;
+    height: 90px;
+    background-color: white;
+    margin: 40px auto;
+    border: rgb(226, 226, 226) 2px solid;
+    border-radius: 20px;
+}
+
+.box-options {
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    border: rgb(233, 236, 236) 2px solid;
+    border-radius: 20px;
+    padding: 1em 2em;
+   
+}
+
+.box-1 {
+    display: inline-block;   
+}
+
